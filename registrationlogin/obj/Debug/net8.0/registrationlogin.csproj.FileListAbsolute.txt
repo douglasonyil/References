@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\registrationlogin\bin\Debug\net8.0\registrationlogin.exe
+C:\Users\ADMIN\Desktop\registrationlogin\bin\Debug\net8.0\registrationlogin.deps.json
+C:\Users\ADMIN\Desktop\registrationlogin\bin\Debug\net8.0\registrationlogin.runtimeconfig.json
+C:\Users\ADMIN\Desktop\registrationlogin\bin\Debug\net8.0\registrationlogin.dll
+C:\Users\ADMIN\Desktop\registrationlogin\bin\Debug\net8.0\registrationlogin.pdb
+C:\Users\ADMIN\Desktop\registrationlogin\obj\Debug\net8.0\registrationlogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\registrationlogin\obj\Debug\net8.0\registrationlogin.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\registrationlogin\obj\Debug\net8.0\registrationlogin.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\registrationlogin\obj\Debug\net8.0\registrationlogin.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\registrationlogin\obj\Debug\net8.0\registrationlogin.dll
+C:\Users\ADMIN\Desktop\registrationlogin\obj\Debug\net8.0\refint\registrationlogin.dll
+C:\Users\ADMIN\Desktop\registrationlogin\obj\Debug\net8.0\registrationlogin.pdb
+C:\Users\ADMIN\Desktop\registrationlogin\obj\Debug\net8.0\registrationlogin.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\registrationlogin\obj\Debug\net8.0\ref\registrationlogin.dll
